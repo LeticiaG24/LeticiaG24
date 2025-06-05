@@ -1,4 +1,5 @@
 <a href="https://potfolio-nine-vert.vercel.app/"><img src="https://github.com/LeticiaG24/LeticiaG24/blob/main/img/Portfolio.png?raw=true"/></a>
+--
 
 ### <div align="center">Olá, me chamo Letícia. Sou uma estudante de Análise e Desenvolvimento de Sistemas.</div>  
   
@@ -70,5 +71,3 @@
 ## Github Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeticiaG24&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left"/>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaG24&layout=donut&theme=radical" align="right"/>
