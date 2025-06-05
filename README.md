@@ -1,3 +1,5 @@
+<a href="https://potfolio-nine-vert.vercel.app/"><img src=""/></a>
+
 ### <div align="center">Olá, me chamo Letícia. Sou uma estudante de Análise e Desenvolvimento de Sistemas.</div>  
   
 
@@ -17,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align='center'><tr><td valign="top" width="33%">
 
 
 
@@ -66,10 +68,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaG24&hide_border=true&layout=compact" align="right" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeticiaG24&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=LeticiaG24&show_icons=true&count_private=true&hide_border=true&theme=radical"/>  
 
-<br/>  
-  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaG24&layout=donut&theme=radical" />
