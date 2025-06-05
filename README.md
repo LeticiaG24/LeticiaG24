@@ -55,14 +55,9 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/LeticiaG24" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/leticia-furtado-053b6033a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p align="left">
+<a href="https://linkedin.com/in/leticia-furtado-053b6033a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leticia-furtado-053b6033a" height="30" width="40" /></a>
+</p>
   
 
 <br/>  
