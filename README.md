@@ -68,19 +68,15 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaG24&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=LeticiaG24&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
+----
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LeticiaG24&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
