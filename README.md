@@ -1,19 +1,16 @@
-<a href="https://potfolio-nine-vert.vercel.app/"><img src="https://github.com/LeticiaG24/LeticiaG24/blob/main/img/Portfolio.png?raw=true"/></a>
---
-
 ### <div align="center">Olá, me chamo Letícia. Sou uma estudante de Análise e Desenvolvimento de Sistemas.</div>  
   
 
-- 🖥️ Estou cursando Análise e Desenvolvimento de Sistemas na Fatec de SJC (2025-2027)  
+- 🖥️ Cursando Análise e Desenvolvimento de Sistemas na Fatec de SJC (2025-2027)  
   
 
-- 🌱 Estou aprendendo Python, HTML e CSS  
+- 🌱 Aprendendo Python, HTML e CSS  
   
 
 - 🎨 Gosto de criar Designs e sou muito criativa  
   
 
-- ⚡ Procuro um estágio na área da programação para aplicar meus conhecimentos e aprender mais.  
+- ⚡ Veja os meus projetos no meu [portifólio](https://potfolio-nine-vert.vercel.app/)
   
 
 <br/>  
@@ -64,5 +61,4 @@
 
 
 ## Github Stats  
-
 <img src="https://github-readme-stats.vercel.app/api?username=LeticiaG24&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left"/>  
